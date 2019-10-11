@@ -34,3 +34,4 @@
 "Bro, are you a bagel-er" -Zsolt (0x01) 2019
 "I'm French, I'm not omnipotent" -Étienne (0x03) 2019
 "play my game™" -Zsolt (0x01) 2019
+"Don't be sorry. Be aware" -Étienne (0x03) 2019
