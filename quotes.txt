@@ -36,3 +36,4 @@
 "play my game™" -Zsolt (0x01) 2019
 "Don't be sorry. Be aware" -Étienne (0x03) 2019
 "Yo9" -Zsolt (0x01) 2020
+"dude, i forgot to make my Windows game Windows-compatible" -Zsolt (0x01) 2020
