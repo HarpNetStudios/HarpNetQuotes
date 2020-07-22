@@ -38,3 +38,4 @@
 "Yo9" -Zsolt (0x01) 2020
 "dude, i forgot to make my Windows game Windows-compatible" -Zsolt (0x01) 2020
 "why are you hear" -Zsolt (0x01) 2020
+"don't bored. instead, do." -Zsolt (0x01) 2020
