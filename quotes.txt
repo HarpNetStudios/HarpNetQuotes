@@ -40,3 +40,4 @@
 "why are you hear" -Zsolt (0x01) 2020
 "don't bored. instead, do." -Zsolt (0x01) 2020
 "Cool is in the eye of the cool hat man." -James (0x02) 2020
+"[Java] is like C# with dementia" -Zsolt (0x01) 2020
